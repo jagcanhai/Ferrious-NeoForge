@@ -1,0 +1,18 @@
+{
+  "manifestType": "minecraftModpack",
+  "manifestVersion": 1,
+  "name": "Ferrious-NeoForge",
+  "version": "1.1",
+  "author": "jiangcanhai",
+  "overrides": "overrides",
+  "minecraft": {
+    "version": "1.21.1",
+    "modLoaders": [
+      {
+        "id": "neoforge-21.1.97",
+        "primary": true
+      }
+    ]
+  },
+  "files": []
+}
